@@ -6,13 +6,8 @@ table, th, td {
     text-align: center;
     padding: 10px;
 }
-
-header {
-    display: block;
-}
 .center{
     margin: auto;
     width: 50%;
     padding: 10px;
 }
-
